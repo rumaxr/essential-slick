@@ -1,4 +1,6 @@
 
+# Essential Slick
+
 ### Sources
 
 - https://github.com/underscoreio/scalax15-slick
